@@ -1,0 +1,12 @@
+.tour {
+  border-bottom: 12px solid #ccc;
+  padding-bottom: 20px; 
+}
+
+.tour h3 {
+  margin-bottom: 10px;
+}
+
+.tour img {
+  max-width: 20%;
+}
