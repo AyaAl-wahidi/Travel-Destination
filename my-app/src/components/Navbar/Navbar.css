@@ -1,15 +1,14 @@
-footer {
+nav {
   background-color: #F4DFC8;
-  color: #000000;
-  padding: 20px;
+  padding: 10px;
   text-align: center;
 }
 
-footer a {
+nav a {
   color: #000000;
   text-decoration: none;
 }
 
-footer a:hover {
+nav a:hover {
   text-decoration: underline;
 }
