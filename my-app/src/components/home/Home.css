@@ -1,0 +1,16 @@
+.tour {
+  background-color: #F4EAE0;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.tour a {
+  color: #000000;
+  text-decoration: none;
+}
+
+.tour a:hover {
+  text-decoration: underline;
+}

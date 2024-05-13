@@ -1,0 +1,28 @@
+.tour-details {
+  background-color: #F4DFC8;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 600px;
+  border-radius: 5px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.toggle-button {
+  background-color: #000000;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.toggle-button:hover {
+  background-color: #F4DFC8;
+  color: #000000;
+}
+
+.card-container {
+  text-align: center;
+}
+
